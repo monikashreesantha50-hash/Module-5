@@ -63,6 +63,6 @@ print("Division:", div_result)
 ## Output Example
 <img width="306" height="80" alt="image" src="https://github.com/user-attachments/assets/c70613b3-2fb6-49fa-bb2b-b61ddfa461e1" />
 
-Result
+## Result
 
-Thus , the program has been executed succesfully.
+Thus , the program has been executed successfully.
