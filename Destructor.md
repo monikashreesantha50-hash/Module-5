@@ -42,4 +42,4 @@ del obj
 <img width="717" height="147" alt="image" src="https://github.com/user-attachments/assets/1f5766d8-cef4-4919-ab31-ba0875cdb385" />
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus , the program has been executed successfully.
