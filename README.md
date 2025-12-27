@@ -35,7 +35,7 @@ s.show()
 <img width="1155" height="232" alt="image" src="https://github.com/user-attachments/assets/895dcb92-f9a0-4db7-b248-8d482cfbdb48" />
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus , the program has been executed successfully.
 
 # Destructor in Python
 
@@ -80,7 +80,7 @@ del obj
 <img width="717" height="147" alt="image" src="https://github.com/user-attachments/assets/9c626520-2a2e-44d9-955f-d43960c7dd25" />
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus , the program has been executed successfully.
 
 # Hierarchical Inheritance in Python
 
@@ -181,7 +181,7 @@ print(patient.getPatientDetails())
 <img width="747" height="83" alt="image" src="https://github.com/user-attachments/assets/d4047ee0-d80d-4f15-9a11-f0a8d14b6c85" />
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus , the program has been executed successfully.
 
 # Multilevel Inheritance Example in Python
 
@@ -260,7 +260,7 @@ print("Location:", obj.getLocation())
 
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus , the program has been executed successfully.
 
 # Arithmetic Operations Using Multiple Inheritance in Python
 
@@ -330,4 +330,4 @@ print("Division:", div_result)
 
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus , the program has been executed successfully.
