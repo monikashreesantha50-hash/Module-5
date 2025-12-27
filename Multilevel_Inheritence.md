@@ -76,4 +76,4 @@ print("Location:", obj.getLocation())
 
 ## Result
 
-Thus , the program has been executed succesfully.
+Thus , the program has been executed successfully.
