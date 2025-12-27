@@ -35,4 +35,4 @@ s.show()
 <img width="1155" height="232" alt="image" src="https://github.com/user-attachments/assets/6c675731-e9d5-45e7-b33c-0f948dfb5ff4" />
 
 ## Result
-Thus , the program has been executed succesfully.
+Thus , the program has been executed successfully.
