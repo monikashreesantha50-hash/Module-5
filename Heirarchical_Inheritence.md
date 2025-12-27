@@ -94,6 +94,6 @@ print(patient.getPatientDetails())
 ## Sample Output
 <img width="747" height="83" alt="image" src="https://github.com/user-attachments/assets/d5f096ac-991f-48a1-a420-ab152d2914ee" />
 
-Result
+## Result
 
-Thus , the program has been executed succesfully.
+Thus , the program has been executed successfully.
